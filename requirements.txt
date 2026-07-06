@@ -14,7 +14,7 @@
 streamlit==1.39.0
 
 # --- 数据处理与科学计算 ---
-pandas==2.2.3
+pandas
 numpy==1.26.4
 scipy==1.13.1
 
